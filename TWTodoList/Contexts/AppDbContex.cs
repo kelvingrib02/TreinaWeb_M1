@@ -8,10 +8,14 @@ public class AppDbContex : DbContext
 {
     public DbSet<Todo> Todos => Set<Todo>();
 
-    protected override void OnConfiguring(DbContextOptionsBuilder builder)
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        builder.UseSqlServer("Server-Localhost;Database=TWTodoList;Trusted_Connection=True;");
+        if (!optionsBuilder.IsConfigured)
+        {
+            optionsBuilder.UseSqlServer("Server=localhost;Database=TWTodoList;Trusted_Connection=True;TrustServerCertificate=True;");
+        }
     }
+    
     protected override void OnModelCreating(ModelBuilder builder)
     {
         builder.ApplyConfiguration(new TodoEntityConfig());
