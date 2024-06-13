@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|c:\\users\\55129\\documents\\projetos\\twtodolist\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|solutionrelative:views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|c:\\users\\55129\\documents\\projetos\\twtodolist\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|solutionrelative:controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|c:\\users\\55129\\documents\\projetos\\twtodolist\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|c:\\users\\55129\\documents\\projetos\\twtodolist\\contexts\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|solutionrelative:contexts\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|c:\\users\\55129\\documents\\projetos\\twtodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|c:\\users\\55129\\documents\\projetos\\twtodolist\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|solutionrelative:models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|c:\\users\\55129\\documents\\projetos\\twtodolist\\twtodolist.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|solutionrelative:twtodolist.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|c:\\users\\55129\\documents\\projetos\\twtodolist\\entityconfigs\\todoentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DA58D9-BF29-4C46-82F5-CF3C4A355AB2}|TWTodoList.csproj|solutionrelative:entityconfigs\\todoentityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:17:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "Views\\Test\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T03:15:34.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Controllers\\TestController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:08:53.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Contexts\\AppDbContex.cs",
+              "RelativeDocumentMoniker": "Contexts\\AppDbContex.cs",
+              "ToolTip": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Contexts\\AppDbContex.cs",
+              "RelativeToolTip": "Contexts\\AppDbContex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:56:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:57:00.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\Models\\Todo.cs",
+              "RelativeToolTip": "Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T03:12:43.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TWTodoList",
+              "DocumentMoniker": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\TWTodoList.csproj",
+              "RelativeDocumentMoniker": "TWTodoList.csproj",
+              "ToolTip": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\TWTodoList.csproj",
+              "RelativeToolTip": "TWTodoList.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T03:08:43.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoEntityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\EntityConfigs\\TodoEntityConfig.cs",
+              "RelativeDocumentMoniker": "EntityConfigs\\TodoEntityConfig.cs",
+              "ToolTip": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\EntityConfigs\\TodoEntityConfig.cs",
+              "RelativeToolTip": "EntityConfigs\\TodoEntityConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:57:34.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

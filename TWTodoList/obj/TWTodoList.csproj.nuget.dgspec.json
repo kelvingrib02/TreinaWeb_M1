@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55129\\Documents\\TreinaWeb_M1\\TWTodoList\\TWTodoList.csproj": {}
+    "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\TWTodoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55129\\Documents\\TreinaWeb_M1\\TWTodoList\\TWTodoList.csproj": {
+    "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\TWTodoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55129\\Documents\\TreinaWeb_M1\\TWTodoList\\TWTodoList.csproj",
+        "projectUniqueName": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\TWTodoList.csproj",
         "projectName": "TWTodoList",
-        "projectPath": "C:\\Users\\55129\\Documents\\TreinaWeb_M1\\TWTodoList\\TWTodoList.csproj",
+        "projectPath": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\TWTodoList.csproj",
         "packagesPath": "C:\\Users\\55129\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55129\\Documents\\TreinaWeb_M1\\TWTodoList\\obj\\",
+        "outputPath": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

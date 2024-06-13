@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4rhf7QJT+Rc=",
+  "dgSpecHash": "lvx9PM+UmtY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\55129\\Documents\\TreinaWeb_M1\\TWTodoList\\TWTodoList.csproj",
+  "projectFilePath": "C:\\Users\\55129\\Documents\\Projetos\\TWTodoList\\TWTodoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\55129\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\55129\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
